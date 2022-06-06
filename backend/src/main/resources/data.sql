@@ -1,0 +1,21 @@
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Jean Carlos Silva', '333.666.999-89', 1250.75, '1980-05-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Maria Luiza Machado', '087.979.487-89', 1250.75, '1980-05-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Poliana Luiza Silva', '087.979.487-89', 1250.75, '1980-05-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Anna Clara Santos', '087.979.487-89', 1250.75, '1980-05-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Rafaella Almeida Souza', '087.979.487-89', 1250.75, '1980-05-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('João Divino', '087.979.487-89', 1250.75, '1980-05-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Maria Aparecida do Carmo', '087.979.487-89', 1250.75, '1980-05-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Vitoria Maria da Silva', '087.979.487-89', 1250.75, '1980-05-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Jean', '087.979.487-89', 1250.75, '1980-05-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Jean', '087.979.487-89', 1250.75, '1980-05-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Jean', '087.979.487-89', 1250.75, '1980-05-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Jean', '087.979.487-89', 1250.75, '1980-05-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Jean', '087.979.487-89', 1250.75, '1980-05-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Jean', '087.979.487-89', 1250.75, '1980-05-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Jean', '087.979.487-89', 1250.75, '1980-05-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Jean', '087.979.487-89', 1250.75, '1980-05-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Jean', '087.979.487-89', 1250.75, '1980-05-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Jean', '087.979.487-89', 1250.75, '1980-05-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Jean', '087.979.487-89', 1250.75, '1980-05-14', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Jean', '087.979.487-89', 1250.75, '1980-05-14', 2);
+
